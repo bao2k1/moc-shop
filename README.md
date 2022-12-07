@@ -16,6 +16,7 @@
 
 ## LINK DEPLOY
 - Đang thực hiện:...
+- Tài khoản trang Admin: (admin1@gmail.com/bao123456)
 
 ## Setup Local Development Enviroment
 
