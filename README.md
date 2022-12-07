@@ -1,5 +1,5 @@
-CÁC CÔNG NGHỆ SỬ DỤNG
-Front-End: HTML, CSS, Javascript, Bootstrap
+##CÁC CÔNG NGHỆ SỬ DỤNG
+##Front-End: HTML, CSS, Javascript, Bootstrap
 Back-End: NodeJS(Express)
 Database: SQL(PostgreSQL)
 Template Engine: EJS
