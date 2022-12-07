@@ -26,13 +26,13 @@
     cd moc-shop
 ```
 
-2. Mở Terminal, cài đặt các Dependencies:
+2. Mở Terminal, cài đặt các Dependencies cho (admin/frontend/backend):
 
 ```
     npm install
 ```
 
-3. Tạo file .env, tạo các biến môi trường như sau:
+3. Tạo file .env trong back end, tạo các biến môi trường như sau:
    
 ```
     PORT=5000
